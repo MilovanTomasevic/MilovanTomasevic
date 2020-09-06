@@ -10,6 +10,10 @@
 
 - Everything about me can be said in one sentence, I get moved by an idea, which I really desire and work diligently to accomplish it. It’s completely irrelevant what it takes. I get inspired by the vision I follow, everything else can be disregarded. I’m only taking care of what is more to be done and how far I’m from my goal accomplishment, and that’s it. All of that makes me really happy and alive. I refused to live with It cannot be, point. Because it can be, the thing needed is to leave your common frames, use other resources, meet new people, acquire new knowledge and skills. It needs to overcome obstacles and work diligently. And `all will be okay`, if not at the very instant, tomorrow, but it will.
 
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 MY CV</summary>
+  <br>
+
 #### QUALIFICATIONS 👨🏻‍🎓
 - BSc Computer Science - Faculty of Technical Sciences - UNS, Serbia (2006-2010)
 - MSc Computer Science - Faculty of Technical Sciences - UNS, Serbia (2010-2011)
@@ -70,3 +74,4 @@ class Coder(BaseHuman):
 ![mt](https://github.com/MilovanTomasevic/com/blob/master/courses/codep.png)
 ![after](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
+</details>

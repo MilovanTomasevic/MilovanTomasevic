@@ -71,7 +71,7 @@ class Coder(BaseHuman):
         # time.sleep(6*hrs)
 ```
 ##### output
-![mt](https://github.com/MilovanTomasevic/com/blob/master/courses/codep.png)
-![after](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+![mt](https://github.com/MilovanTomasevic/com/blob/master/courses/codep.png){ width: 100px; }
+![after](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif){ width: 50px; }
 
 </details>

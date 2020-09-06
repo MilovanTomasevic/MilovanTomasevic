@@ -1,11 +1,8 @@
 <div align="center">
-
-![before](https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif)                                                                                          
-                       
-<div align="center" width="50">                    
-
+  <div align="center" width="50">    
+    ![before](https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif)                                                                                                   
+  </div>
 </div>
-
 
 
 - In addition to scientific research, I also develop business software and websites with the aim of creating a new product or service that consumers will want.

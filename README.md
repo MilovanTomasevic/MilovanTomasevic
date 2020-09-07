@@ -25,7 +25,7 @@
 - Researcher, Business Analyst / Consultant, DDOR NOVI SAD - Insurance company, Serbia (2012-2013)
 - iOS DEVELOPER, OBLO Living (RT-RK group), Serbia (03/2017–09/2017)
 - High Performance Computing Consultant, Faculty of Information Studies - Slovenia (08/2018-06/2020)
-- Senior Data Solutions Developer, NLB - Slovenia (06/2018-`today`)
+- Senior Data Solutions Developer, NLB - Slovenia (06/2020-`today`)
 
 
 #### SKILLS 🛠

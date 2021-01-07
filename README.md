@@ -10,6 +10,9 @@
 
 - Everything about me can be said in one sentence, I get moved by an idea, which I really desire and work diligently to accomplish it. It’s completely irrelevant what it takes. I get inspired by the vision I follow, everything else can be disregarded. I’m only taking care of what is more to be done and how far I’m from my goal accomplishment, and that’s it. All of that makes me really happy and alive. I refused to live with It cannot be, point. Because it can be, the thing needed is to leave your common frames, use other resources, meet new people, acquire new knowledge and skills. It needs to overcome obstacles and work diligently. And `all will be okay`, if not at the very instant, tomorrow, but it will.
 
+[![milovantomasevic's github stats](https://github-readme-stats.vercel.app/api?username=milovantomasevic&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/milovantomasevic)
+
+
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 MY CV</summary>
   <br>

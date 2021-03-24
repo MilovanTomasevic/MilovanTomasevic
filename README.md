@@ -7,9 +7,37 @@
 <div align="center" width="50"></div>
 </div>
 
-- ½ Software Engineer, ¼ Open Source enthusiast, ¼ Manager
 
-- In addition to scientific research, I also develop business software and websites with the aim of creating a new product or service that consumers will want.
+```
+             ________________________________________________
+            /                                                \
+           |    _________________________________________     |
+           |   |                                         |    |
+           |   |  ~ $ bash ./intro.sh.                   |    |
+           |   |  Hello, my name is Milovan              |    |
+           |   |  ½ Software Engineer                    |    |
+           |   |  ¼ Open Source enthusiast               |    |
+           |   |  ¼ Manager                              |    |
+           |   |  In addition to scientific research,    |    |
+           |   |  I also develop business software and   |    |
+           |   |  websites with the aim of creating      |    |
+           |   |  a new product or service that          |    |
+           |   |  consumers will want.                   |    |
+           |   |                                         |    |
+           |   |  MT                                     |    |
+           |   |_________________________________________|    |
+           |                                                  |
+            \_________________________________________________/
+                   \___________________________________/
+                ___________________________________________
+             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.'-_
+ _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.'-_
+|-------------------------------------------------------------------------|
+'---._.-------------------------------------------------------------._.---'
+```
 
 - Everything about me can be said in one sentence, I get moved by an idea, which I really desire and work diligently to accomplish it. It’s completely irrelevant what it takes. I get inspired by the vision I follow, everything else can be disregarded. I’m only taking care of what is more to be done and how far I’m from my goal accomplishment, and that’s it. All of that makes me really happy and alive. I refused to live with It cannot be, point. Because it can be, the thing needed is to leave your common frames, use other resources, meet new people, acquire new knowledge and skills. It needs to overcome obstacles and work diligently. And `all will be okay`, if not at the very instant, tomorrow, but it will.
 

@@ -7,6 +7,7 @@
 <div align="center" width="50"></div>
 </div>
 
+- ½ Software Engineer, ¼ Open Source enthusiast, ¼ Manager
 
 - In addition to scientific research, I also develop business software and websites with the aim of creating a new product or service that consumers will want.
 
@@ -14,6 +15,9 @@
 
 [![milovantomasevic's github stats](https://github-readme-stats.vercel.app/api?username=milovantomasevic&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/milovantomasevic)
 
+<p align="center">
+    <img src="https://profile-counter.glitch.me/MilovanTomasevic/count.svg" />
+</p>
 
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 MY CV</summary>
@@ -80,3 +84,17 @@ class Coder(BaseHuman):
 ![](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 </details>
+
+
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/phdmilovantomasevic)
+
+[![see stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/13155046/milovan-tomašević)
+
+[![Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:tomas.ftn.e2@gmail.com)
+
+
+
+
+

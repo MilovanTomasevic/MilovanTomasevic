@@ -43,9 +43,20 @@
 
 [![milovantomasevic's github stats](https://github-readme-stats.vercel.app/api?username=milovantomasevic&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/milovantomasevic)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milovantomasevic&hide=javascript,css,scss,html&layout=compact)](https://github.com/chechiachang/github-readme-stats)
+
 <p align="center">
     <img src="https://profile-counter.glitch.me/MilovanTomasevic/count.svg" />
 </p>
+
+
+📫 How to reach me:
+
+[![Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:tomas.ftn.e2@gmail.com)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/phdmilovantomasevic)[![see stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/13155046/milovan-tomašević)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MilovanTomasevic&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>
+
+
 
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 MY CV</summary>
@@ -114,15 +125,7 @@ class Coder(BaseHuman):
 </details>
 
 
-📫 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/phdmilovantomasevic)
-
-[![see stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/13155046/milovan-tomašević)
-
-[![Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:tomas.ftn.e2@gmail.com)
-
-
-
+[![Random Visits](https://randos.online/u/MilovanTomasevic)](https://randos.online/u/MilovanTomasevic/next)
 
 

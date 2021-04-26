@@ -46,10 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milovantomasevic&hide=javascript,css,scss,html,swig&layout=compact)](https://github.com/chechiachang/github-readme-stats)
 
 <!---
--->
-
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milovantomasevic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 📫 How to reach me:
 

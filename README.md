@@ -46,6 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milovantomasevic&hide=javascript,css,scss,html,swig&layout=compact)](https://github.com/chechiachang/github-readme-stats)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milovantomasevic)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:tomas.ftn.e2@gmail.com)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/phdmilovantomasevic)[![see stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/13155046/milovan-tomašević)
